@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/FCC-random-quote-machine/static/js/runtime~main.23184adc.js"
   },
   {
-    "revision": "ee920ab29d1ffb6c0c3a",
-    "url": "/FCC-random-quote-machine/static/js/main.ee920ab2.chunk.js"
+    "revision": "6bf3de0dd4fc38c28c03",
+    "url": "/FCC-random-quote-machine/static/js/main.6bf3de0d.chunk.js"
   },
   {
-    "revision": "26534054c112b7348166",
-    "url": "/FCC-random-quote-machine/static/js/1.26534054.chunk.js"
+    "revision": "fefaeeaa22eec4451cfe",
+    "url": "/FCC-random-quote-machine/static/js/1.fefaeeaa.chunk.js"
   },
   {
-    "revision": "ee920ab29d1ffb6c0c3a",
-    "url": "/FCC-random-quote-machine/static/css/main.3d1d6618.chunk.css"
+    "revision": "6bf3de0dd4fc38c28c03",
+    "url": "/FCC-random-quote-machine/static/css/main.0c2a0630.chunk.css"
   },
   {
-    "revision": "b1f73b728d75e0c0e89adfc1bbd93494",
+    "revision": "21b1a694b85296f5418322ff72f4bcce",
     "url": "/FCC-random-quote-machine/index.html"
   }
 ];
